@@ -3,7 +3,6 @@ package com.practice.quiz_service.controller;
 import com.practice.quiz_service.model.QuestionWrapper;
 import com.practice.quiz_service.model.Response;
 import com.practice.quiz_service.service.QuizService;
-import com.practice.quiz_service.model.QuizDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
